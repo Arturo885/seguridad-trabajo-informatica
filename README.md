@@ -1,200 +1,139 @@
-# 🛡️ Seguridad y prevención de riesgos laborales en informática
+# 🌱 Informática ambiental y sostenibilidad tecnológica
 
-![Proyecto de prevención](https://img.shields.io/badge/Proyecto-Prevención%20de%20riesgos-blue)
-![Ámbito](https://img.shields.io/badge/Ámbito-Informática%20y%20oficinas-4c8)
-![Normativa](https://img.shields.io/badge/Normativa-PRL-orange)
+![Estado](https://img.shields.io/badge/Proyecto-Informática%20ambiental-2e8b57)
+![Tema](https://img.shields.io/badge/Tema-Green%20IT-228b22)
+![Formato](https://img.shields.io/badge/Formato-Markdown-blue)
 
-> Guía de riesgos laborales habituales en puestos informáticos, talleres de reparación, oficinas y espacios de trabajo con pantallas.
+> Proyecto sobre el impacto ambiental de la informática y las medidas que permiten utilizar la tecnología de forma más responsable.
 
 ## Índice
 
-1. [Introducción](#1-introducción)
-2. [Riesgos generales y eléctricos](#2-riesgos-generales-y-eléctricos)
-3. [Riesgos ergonómicos y ambientales](#3-riesgos-ergonómicos-y-ambientales)
-4. [Configuración del puesto informático](#4-configuración-del-puesto-informático)
-5. [Riesgos psicosociales](#5-riesgos-psicosociales)
-6. [Recomendaciones posturales y descansos](#6-recomendaciones-posturales-y-descansos)
-7. [Lista de comprobación](#7-lista-de-comprobación)
-8. [Normativa](#8-normativa)
-9. [Referencias](#9-referencias)
-10. [Autores](#10-autores)
+1. [Contaminación ambiental](#1-contaminación-ambiental)
+2. [Residuos informáticos (RAEE)](#2-residuos-informáticos-raee)
+3. [Obsolescencia programada](#3-obsolescencia-programada)
+4. [Informática ecológica (Green IT)](#4-informática-ecológica-green-it)
+5. [Buenas prácticas](#5-buenas-prácticas)
+6. [Conclusión](#6-conclusión)
+7. [Referencias](#7-referencias)
+8. [Autores](#8-autores)
 
 ---
 
-## 1. Introducción
+## 1. Contaminación ambiental
 
-La prevención de riesgos laborales consiste en identificar los peligros del trabajo y aplicar medidas para evitar daños a la salud. En informática no solo existen riesgos relacionados con los ordenadores: también hay que tener en cuenta la instalación eléctrica, el mobiliario, la iluminación, el ruido, la organización del trabajo y las tareas realizadas.
+La **contaminación ambiental** es la alteración del entorno natural por la presencia de sustancias, residuos o formas de energía que pueden perjudicar a los ecosistemas y a la salud de las personas. Puede afectar al aire, al agua y al suelo.
 
-La guía de la Junta de Andalucía *Prevención de riesgos laborales en oficinas y despachos* destaca cinco grupos de riesgos frecuentes:
+La informática también tiene impacto ambiental, aunque muchos de sus servicios parezcan digitales. Para fabricar y utilizar dispositivos se necesitan materias primas, energía, agua y transporte.
 
-- Accidentes como golpes, caídas, cortes o incendios.
-- Incomodidad ambiental por ruido, temperatura, humedad o corrientes de aire.
-- Fatiga visual por el uso prolongado de pantallas.
-- Trastornos musculoesqueléticos por posturas inadecuadas y movimientos repetitivos.
-- Riesgos psicosociales relacionados con la organización y el contenido del trabajo.
+- **Extracción de materias primas:** la fabricación de ordenadores y móviles requiere materiales como cobre, aluminio, litio y otros minerales. Su extracción puede modificar el paisaje y consumir recursos.
+- **Fabricación:** producir placas, pantallas, baterías y otros componentes requiere energía y genera emisiones y residuos industriales.
+- **Uso:** los ordenadores, redes y centros de datos consumen electricidad. El impacto depende, entre otros factores, de la eficiencia de los equipos y del origen de la energía.
+- **Fin de vida:** abandonar aparatos electrónicos o desmontarlos sin control puede liberar sustancias perjudiciales y desperdiciar materiales recuperables.
 
-![Puesto informático y riesgos laborales](./01-puesto-informatico.png)
+![Impacto ambiental del ciclo de vida tecnológico](./img/01-contaminacion-ambiental.png)
 
-## 2. Riesgos generales y eléctricos
+Por tanto, el impacto no se limita a la electricidad que consume un ordenador mientras está encendido: también cuenta cómo se fabrica, cuánto tiempo se utiliza y qué ocurre cuando deja de servir.
 
-### Riesgos generales
+## 2. Residuos informáticos (RAEE)
 
-En una oficina o taller informático pueden producirse golpes con cajones abiertos, tropiezos con cables, cortes con herramientas y caídas en escaleras.
+Los **Residuos de Aparatos Eléctricos y Electrónicos (RAEE)** son los aparatos eléctricos o electrónicos que se desechan al final de su vida útil. En informática encontramos, por ejemplo, ordenadores, portátiles, monitores, discos duros, placas base, teclados, ratones, impresoras, routers y baterías.
 
-**Medidas preventivas:**
+### ¿Por qué hay que gestionarlos correctamente?
 
-- Mantener los pasillos despejados y los cables ordenados.
-- Cerrar cajones y puertas después de utilizarlos.
-- Guardar cutters, tijeras y otras herramientas cuando se terminen de usar.
-- Utilizar el pasamanos al subir o bajar escaleras.
-- Conocer la ubicación de las salidas de emergencia y los extintores.
-- No bloquear las vías de evacuación ni los equipos contra incendios.
+Los equipos electrónicos contienen materiales que pueden recuperarse, pero también componentes o sustancias que requieren una gestión controlada. Si se abandonan, se queman o se desmontan de forma inadecuada, pueden contaminar el suelo, el agua y el aire.
 
-### Seguridad eléctrica en informática
-
-Los ordenadores, monitores, impresoras, regletas, cargadores y fuentes de alimentación necesitan medidas de seguridad.
-
-- No sobrecargar enchufes ni regletas.
-- No desconectar un equipo tirando del cable; sujetar el enchufe.
-- No utilizar cables, conectores o equipos que estén dañados.
-- Mantener líquidos alejados de los equipos eléctricos.
-- Apagar los equipos al terminar la jornada cuando proceda.
-- En tareas de reparación, desconectar el equipo de la alimentación antes de intervenir y seguir los procedimientos del fabricante.
-- No abrir ni manipular fuentes de alimentación ni otros componentes que puedan conservar energía peligrosa. Estas intervenciones deben quedar en manos de personal formado y autorizado.
-
-> [!WARNING]
-> **La toma de tierra y el aislamiento son medidas de protección, no una autorización para tocar partes con tensión.** No realices pruebas caseras con electricidad ni experimentos con el cuerpo humano.
-
-![Prevención de riesgos eléctricos](./02-seguridad-electrica.png)
-
-## 3. Riesgos ergonómicos y ambientales
-
-La **ergonomía** busca adaptar el puesto de trabajo a las características físicas y mentales de la persona. Un puesto mal ajustado puede favorecer molestias en cuello, espalda, hombros, brazos y muñecas.
-
-### Condiciones ambientales
-
-| Factor | Posibles consecuencias | Prevención |
+| Tipo de material | Ejemplos | Qué hacer |
 |---|---|---|
-| Iluminación | Reflejos, deslumbramiento y fatiga visual | Evitar colocar la pantalla frente a una ventana o de espaldas a ella; regular persianas y luz artificial |
-| Ruido | Nerviosismo y dificultad para concentrarse | Mantener los equipos, reducir ruidos innecesarios y respetar a otras personas |
-| Temperatura y humedad | Incomodidad y molestias | Mantener condiciones ambientales adecuadas y evitar corrientes directas |
-| Calidad del aire | Irritación y malestar | Limpiar el puesto y mantener correctamente la ventilación |
+| Materiales recuperables | Cobre, aluminio, hierro y algunos metales presentes en circuitos | Entregarlos a gestores autorizados para su recuperación |
+| Componentes que requieren gestión específica | Baterías, pantallas y determinados componentes electrónicos | No desmontarlos ni mezclarlos con la basura doméstica |
+| Aparatos reutilizables | Ordenadores, monitores o periféricos que todavía funcionan | Valorar su reparación, donación o reutilización segura |
 
-La guía consultada recomienda, como referencia para oficinas, una humedad relativa del **45 % al 65 %** y temperaturas orientativas de **20–24 °C en invierno** y **23–26 °C en verano**. Las condiciones reales deben ajustarse a la normativa y a las características del lugar de trabajo.
+> [!IMPORTANT]
+> **En España:** no tires los aparatos electrónicos ni sus baterías al contenedor convencional. Llévalos a un punto limpio o utiliza los sistemas de recogida habilitados por distribuidores y gestores autorizados. Consulta las condiciones de recogida de tu municipio o establecimiento.
 
-### Pantallas y fatiga visual
+![Residuos de aparatos eléctricos y electrónicos](./img/02-residuos-raee.png)
 
-Para reducir la fatiga visual:
+### Ejemplo práctico
 
-- Ajustar el brillo y el contraste a las condiciones de iluminación.
-- Evitar reflejos directos sobre la pantalla.
-- Mantener una distancia de visualización adecuada al tamaño y tipo de pantalla.
-- Alternar la mirada entre la pantalla y puntos más alejados.
-- Realizar pausas y cambiar de actividad cuando sea posible.
+Un ordenador que ya no utilizamos puede tener una segunda vida si se comprueba su estado, se borran correctamente los datos personales y se repara o se entrega para su reutilización. Si no puede aprovecharse, debe llevarse a un punto de recogida de RAEE.
 
-## 4. Configuración del puesto informático
+## 3. Obsolescencia programada
 
-### Pantalla, teclado y ratón
+La **obsolescencia programada** es la práctica de diseñar o comercializar productos para que su vida útil sea limitada o para que el consumidor tenga motivos para sustituirlos antes de lo necesario. No toda avería ni toda incompatibilidad significa que exista obsolescencia programada: hay que valorar cada caso.
 
-- Colocar la pantalla frente a la persona y evitar reflejos.
-- La guía utiliza como referencia una distancia aproximada de **40–60 cm**, que debe adaptarse al tamaño de la pantalla y a la tarea.
-- Situar la parte superior de la pantalla aproximadamente a la altura de los ojos, ajustándola a la comodidad de la persona.
-- Colocar el teclado y el ratón cerca para no tener que estirar los brazos.
-- Mantener las muñecas en una posición cómoda y los codos próximos al cuerpo.
-- Elegir un ratón adecuado al tamaño de la mano.
+En informática se puede relacionar con varias situaciones:
 
-### Silla y mesa
+1. **Limitaciones de hardware:** componentes difíciles de sustituir, baterías no reemplazables o memoria soldada que impide ampliar el equipo.
+2. **Fin del soporte de software:** un dispositivo puede seguir funcionando, pero dejar de recibir actualizaciones de seguridad o compatibilidad.
+3. **Obsolescencia percibida:** la publicidad o las nuevas versiones pueden hacer que un dispositivo parezca anticuado aunque todavía cubra las necesidades de su usuario.
 
-- Utilizar una silla estable, regulable y con apoyo para la espalda.
-- Ajustar la altura para que los pies queden apoyados en el suelo o en un reposapiés.
-- Procurar que codos y piernas formen aproximadamente un ángulo recto, sin forzar la postura.
-- Mantener la zona lumbar apoyada en el respaldo.
-- Dejar espacio suficiente debajo de la mesa para mover las piernas.
+![Obsolescencia en dispositivos informáticos](./img/03-obsolescencia.png)
 
-### Uso de portátiles
+### ¿Cómo reducirla?
 
-Cuando se utiliza un portátil durante periodos prolongados, su pantalla y teclado integrados pueden obligar a adoptar una postura incómoda. Es recomendable colocarlo sobre un soporte y utilizar teclado y ratón externos.
+- Reparar los componentes averiados cuando sea viable.
+- Ampliar la memoria RAM o sustituir un disco duro por un SSD si el equipo lo permite.
+- Comprobar los requisitos y el soporte de seguridad antes de instalar un sistema operativo.
+- Elegir, cuando sea posible, equipos con repuestos disponibles y diseño reparable.
+- Comprar un dispositivo nuevo solo cuando el actual ya no cubra las necesidades o no pueda mantenerse de forma segura.
 
-![Ergonomía del puesto informático](./03-ergonomia-puesto.png)
+## 4. Informática ecológica (Green IT)
 
-## 5. Riesgos psicosociales
+La **informática ecológica**, también llamada *Green IT*, reúne prácticas para reducir el impacto ambiental de los equipos y servicios informáticos durante su fabricación, uso y retirada.
 
-Los riesgos psicosociales están relacionados con la organización del trabajo, la carga mental, los horarios, la comunicación y las relaciones laborales. Pueden provocar estrés, desmotivación, insatisfacción y absentismo.
+### Medidas que se pueden aplicar
 
-En un puesto de soporte informático pueden aparecer, por ejemplo, cuando se acumulan incidencias urgentes, se fijan plazos poco realistas o se atienden muchas consultas simultáneamente.
+- **Ahorrar energía:** configurar la suspensión automática, ajustar el brillo y apagar los equipos que no se utilicen.
+- **Alargar la vida útil:** mantener los equipos limpios, actualizar el software y reparar antes de sustituir.
+- **Elegir equipos eficientes:** comparar el consumo energético y las características de eficiencia antes de comprar.
+- **Optimizar servidores:** consolidar servicios o utilizar virtualización cuando el análisis de carga y consumo demuestre que supone un ahorro real.
+- **Gestionar los residuos:** separar los aparatos y entregarlos a sistemas autorizados.
+- **Reducir impresiones:** utilizar documentos digitales cuando sea adecuado y configurar la impresión a doble cara.
 
-**Medidas preventivas:**
+### Ciclo de uso responsable
 
-- Organizar las tareas y establecer prioridades realistas.
-- Repartir de forma equilibrada la carga de trabajo.
-- Alternar tareas cuando sea posible.
-- Facilitar la formación y el apoyo entre compañeros.
-- Mantener una comunicación clara con responsables y usuarios.
-- Respetar los descansos y los horarios establecidos.
+```mermaid
+flowchart TD
+    A[Elegir un equipo adecuado] --> B[Utilizarlo eficientemente]
+    B --> C[Mantener y reparar]
+    C --> D{¿Puede seguir utilizándose?}
+    D -- Sí --> B
+    D -- No --> E[Entregarlo como RAEE]
+    E --> F[Recuperar materiales]
+```
 
-## 6. Recomendaciones posturales y descansos
+![Buenas prácticas de informática ecológica](./img/04-green-it.png)
 
-No es recomendable permanecer durante largos periodos en la misma postura. Conviene cambiar de posición, levantarse periódicamente y descansar la vista. Las pausas deben adaptarse a la tarea y a la organización del trabajo.
+## 5. Buenas prácticas
 
-Algunas acciones sencillas son:
+Lista de acciones que se pueden aplicar en casa, en clase o en el trabajo:
 
-- Relajar hombros y brazos.
-- Cambiar de postura y caminar unos minutos.
-- Mirar a un punto lejano para descansar la vista.
-- Evitar giros repetidos del cuello y mantener la espalda apoyada.
-- Ajustar de nuevo silla, pantalla y periféricos si aparece incomodidad.
+- [ ] Activar la suspensión automática y los modos de ahorro energético.
+- [ ] Apagar los equipos cuando no se vayan a utilizar durante un periodo prolongado.
+- [ ] Reparar o ampliar el ordenador antes de comprar otro, siempre que sea viable y seguro.
+- [ ] Llevar baterías y aparatos averiados a un punto de recogida autorizado.
+- [ ] Evitar impresiones innecesarias.
+- [ ] Borrar los datos personales de forma segura antes de entregar un equipo para reutilización.
 
-![Pausas y hábitos posturales](./04-ejercicios-pausa.png)
+## 6. Conclusión
 
-<details>
-<summary>Ver una breve rutina de movilidad suave</summary>
+La tecnología facilita muchas actividades, pero también necesita recursos y genera residuos. La mejor forma de reducir su impacto es tener en cuenta todo su ciclo de vida: comprar con criterio, consumir menos energía, mantener y reparar los dispositivos y gestionar correctamente los RAEE. Pequeñas decisiones de usuarios, empresas y centros educativos pueden contribuir a una informática más sostenible.
 
-Realiza los movimientos despacio, sin rebotes y sin forzar el cuerpo. Detente si aparece dolor o molestia.
+## 7. Referencias
 
-1. **Hombros:** elevarlos suavemente y relajarlos.
-2. **Brazos:** estirar los brazos de forma cómoda y soltarlos.
-3. **Cuello:** girar lentamente la cabeza dentro de un rango cómodo, sin hacer movimientos bruscos.
-4. **Vista:** apartar la mirada de la pantalla y enfocar un objeto lejano durante unos segundos.
+- **Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO):** [Residuos de aparatos eléctricos y electrónicos (RAEE)](https://www.miteco.gob.es/).
+- **Unión Europea:** [Directiva 2012/19/UE sobre residuos de aparatos eléctricos y electrónicos](https://eur-lex.europa.eu/eli/dir/2012/19/oj).
+- **Boletín Oficial del Estado:** [Real Decreto 110/2015, sobre residuos de aparatos eléctricos y electrónicos](https://www.boe.es/eli/es/rd/2015/02/20/110).
+- **UNITAR / ITU:** [The Global E-waste Monitor](https://ewastemonitor.info/).
+- **ENERGY STAR:** [Productos y eficiencia energética](https://www.energystar.gov/).
 
-</details>
-
-## 7. Lista de comprobación
-
-- [ ] Los pasillos y salidas están despejados.
-- [ ] Los cables están colocados para evitar tropiezos.
-- [ ] Las regletas no están sobrecargadas.
-- [ ] Los equipos y cables no presentan daños visibles.
-- [ ] La pantalla no tiene reflejos molestos.
-- [ ] La silla y la mesa permiten mantener una postura cómoda.
-- [ ] Puedo apoyar los pies y mantener la espalda apoyada.
-- [ ] Realizo cambios de postura y descansos visuales.
-- [ ] La carga de trabajo y los plazos están organizados.
-
-## 8. Normativa
-
-La guía de la Junta de Andalucía consultada recoge, entre otras, las siguientes disposiciones:
-
-- **Ley 31/1995, de 8 de noviembre**, de Prevención de Riesgos Laborales.
-- **Real Decreto 486/1997, de 14 de abril**, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo.
-- **Real Decreto 488/1997, de 14 de abril**, sobre disposiciones mínimas de seguridad y salud relativas al trabajo con equipos que incluyen pantallas de visualización.
-
-La normativa puede actualizarse. Para una aplicación profesional debe consultarse siempre el texto legal vigente y la evaluación de riesgos del centro de trabajo.
-
-## 9. Referencias
-
-- **Junta de Andalucía, Consejería de Empleo.** *Prevención de riesgos laborales. Manual de buenas prácticas en oficinas y despachos*. Fuente principal utilizada para los riesgos generales, ergonómicos, ambientales, psicosociales y las recomendaciones posturales.
-- **Instituto Nacional de Seguridad y Salud en el Trabajo (INSST).** [Portal oficial del INSST](https://www.insst.es/).
-- **Boletín Oficial del Estado (BOE).** [Ley 31/1995 de Prevención de Riesgos Laborales](https://www.boe.es/eli/es/l/1995/11/08/31).
-- **BOE.** [Real Decreto 486/1997](https://www.boe.es/eli/es/rd/1997/04/14/486).
-- **BOE.** [Real Decreto 488/1997](https://www.boe.es/eli/es/rd/1997/04/14/488).
-
-## 10. Autores
+## 8. Autores
 
 | Autor | Usuario de GitHub | Trabajo realizado |
 |---|---|---|
-| José Guerrero Marín | [@JGuerrero-11](https://github.com/JGuerrero-11) | Riesgos generales y eléctricos, configuración del puesto e imágenes |
-| Arturo | [@Arturo885](https://github.com/Arturo885) | Ergonomía y ambiente, riesgos psicosociales, normativa y revisión |
+| José Guerrero Marín | [@JGuerrero-11](https://github.com/JGuerrero-11) | Contaminación ambiental, RAEE, maquetación e imágenes |
+| Arturo | [@Arturo885](https://github.com/Arturo885) | Obsolescencia programada, Green IT, revisión y referencias |
 
 ---
 
-**Característica Markdown adicional:** se utilizan tablas, listas de tareas, bloques de aviso, secciones desplegables, imágenes, enlaces y diagramas o elementos de formato avanzado.
+**Característica Markdown adicional:** este proyecto incorpora tablas, listas de tareas, notas desplegables, avisos, enlaces, imágenes, y un diagrama Mermaid.
